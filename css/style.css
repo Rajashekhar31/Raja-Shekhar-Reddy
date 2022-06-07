@@ -821,7 +821,7 @@ textarea.form-input::-webkit-resizer { display: none; }
  * responsive larger than 450px screen
  */
 
- @media (max-width: 400px) {
+ @media (min-width: 400px) {
 
   .avatar-box{height: 100%;}
 
